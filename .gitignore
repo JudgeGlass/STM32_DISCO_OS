@@ -1,0 +1,13 @@
+.build
+.mbed
+projectfiles
+*.py*
+BUILD
+mbed-os
+LCD_DISCO_F429ZI
+BSP_DISCO_F429ZI
+bug_report.md
+.travis.yml
+*.lib
+CONTRIBUTING.md
+
